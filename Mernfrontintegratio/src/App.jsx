@@ -283,7 +283,7 @@ function App() {
                 <span className="ml-3 text-2xl font-bold">ShopEasy Buy</span>
               </div>
               <p className="text-gray-400 mb-6 max-w-md">
-                Your one-stop destination for all the shopping needs. Quality products,best price fast delivery, and exceptional customer service.
+               Hi Your one-stop destination for all the shopping needs. Quality products,best price fast delivery, and exceptional customer service.
               </p>
               <div className="flex space-x-4">
                 <a href="#" className="w-10 h-10 bg-gray-800 hover:bg-gray-700 rounded-full flex items-center justify-center transition-colors">
