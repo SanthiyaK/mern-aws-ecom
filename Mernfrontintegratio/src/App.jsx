@@ -311,7 +311,7 @@ function App() {
 
             {/* Quick Links */}
             <div>
-              <h3 className="text-lg font-bold mb-6">Quick Links for ref</h3>
+              <h3 className="text-lg font-bold mb-6">Quick Links</h3>
               <ul className="space-y-3">
                 <li>
                   <Link to="/" className="text-gray-400 hover:text-white transition-colors">
